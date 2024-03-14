@@ -1,0 +1,15 @@
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\bin\Debug\net7.0\Task_21.exe
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\bin\Debug\net7.0\Task_21.deps.json
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\bin\Debug\net7.0\Task_21.runtimeconfig.json
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\bin\Debug\net7.0\Task_21.dll
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\bin\Debug\net7.0\Task_21.pdb
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\obj\Debug\net7.0\Task_21.csproj.AssemblyReference.cache
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\obj\Debug\net7.0\Task_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\obj\Debug\net7.0\Task_21.AssemblyInfoInputs.cache
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\obj\Debug\net7.0\Task_21.AssemblyInfo.cs
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\obj\Debug\net7.0\Task_21.csproj.CoreCompileInputs.cache
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\obj\Debug\net7.0\Task_21.dll
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\obj\Debug\net7.0\refint\Task_21.dll
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\obj\Debug\net7.0\Task_21.pdb
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\obj\Debug\net7.0\Task_21.genruntimeconfig.cache
+C:\Users\Semen\OneDrive\Рабочий стол\Task19_21_23\Task_21\obj\Debug\net7.0\ref\Task_21.dll
